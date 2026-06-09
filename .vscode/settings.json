@@ -1,0 +1,12 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\Qiwei\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "python.analysis.extraPaths": [
+        "C:\\Users\\Qiwei\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages"
+    ],
+    "python.languageServer": "Pylance",
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.diagnosticSeverity": {
+        "reportMissingImports": "warning"
+    },
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+}
